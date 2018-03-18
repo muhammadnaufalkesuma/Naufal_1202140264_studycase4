@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NAUFAL_1202140264_studycase4</string>
+    <string-array name="namaMhs">
+        <item>Muhammad Naufal</item>
+        <item>Byan Fernando</item>
+        <item>Erdinanda Pandu</item>
+        <item>Rafliansyah Ruslan</item>
+        <item>Bill Power</item>
+        <item>Zulkarnanin Sahlan</item>
+        <item>Thea Annissa</item>
+        <item>Ida Mahmudah</item>
+        <item>Yuki Yoshi</item>
+        <item>Gilar Primayanto</item>
+        <item>Fasya Dzulfikri</item>
+        <item>Zainal Mutaqin</item>
+        <item>Chris Gusti</item>
+    </string-array>
+</resources>
